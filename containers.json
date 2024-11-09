@@ -1,0 +1,7 @@
+[
+  {
+    "Description": "Oracle Linux 8 General OVA",
+    "Format": "ova",
+    "Url": "s3://simonangel-ec2-ami/OL8-General.ova"
+  }
+]
