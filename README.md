@@ -1,10 +1,10 @@
-# AWS EC2 AMI
+# AWS AMI: Import VM Image
 
-A repo of an AWS AMI project.
+- A repo of migrating an on-premises VM to AWS AMI.
 
-OS images are created and export using VMware Workstation locally, and then upload to S3 and register in AMI.
+  - OS images are created and export using VMware Workstation locally, and then upload to S3 and register in AMI.
 
-- [AWS EC2 AMI](#aws-ec2-ami)
+- [AWS AMI: Import VM Image](#aws-ami-import-vm-image)
   - [Create the service role](#create-the-service-role)
   - [Create policy for S3 bucket](#create-policy-for-s3-bucket)
   - [Upload `.ova` to S3 bucket](#upload-ova-to-s3-bucket)
